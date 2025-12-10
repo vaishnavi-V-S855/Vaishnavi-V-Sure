@@ -17,7 +17,7 @@ Repository Name: Vaishnavi-V-Sure
 
 **Requirements**
 - Java JDK installed (version 8 or above)
-- Any Java IDE (e.g., IntelliJ IDEA, Eclipse) or terminal with `javac` and `java` commands
+- Any Java IDE (e.g., IntelliJ IDEA, Eclipse) or terminal with `javac` and `java` commands.
 
 **Execution Steps (Terminal)**
 
