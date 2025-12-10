@@ -31,3 +31,4 @@ public class Problem_2 {
 		scanner.close();
 	}
 }
+
